@@ -1,0 +1,14 @@
+uint16 vf_img_index
+uint16 hs_img_index
+uint16 vf_img_size
+uint16 hs_img_size
+uint16 compressed_hs_img_size
+uint8 mode
+uint16 pld_cmd_counter
+uint16 pld_excuted_cmd_counter
+uint16 ximea_temp_value
+bool ximea_temp_sign
+bool hs_cam_status
+bool vf_cam_status
+uint8 last_excuted_command
+uint8 payload_id_err

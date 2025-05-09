@@ -1,0 +1,73 @@
+{
+  "packet_header_1": 235,
+  "packet_header_2": 144,
+  "max_data_size": 64,
+  "min_data_size":2,
+  "frame_indicies": {
+    "packet_header_1": 0,
+    "packet_header_2": 1,
+    "payload_id": 2,
+    "cmd_id": 3,
+    "data_len": 4,
+    "data_start": 5,
+    "checsum_higher_byte":-2,
+    "checsum_lower_byte":-1
+  },
+  "spi_params": {
+    "synchronization_code": {
+      "packet_header_1": 226,
+      "packet_header_2": 37
+    },
+    "primary_header": {
+      "version": {
+        "version_number": 0,
+        "type": 11
+      }
+    },
+    "packet_identifier": {
+      "secondary_header_flag": 27,
+      "application_process_identifier": 26
+    },
+    "packet_sequence_control": {
+      "grouping_flag": 1,
+      "packet_sequence_count": 10
+    }
+  },
+  "commands": {
+      "time_synchronization_command":
+      {
+        "id":19,
+        "data_len":6
+      },
+      "telemetry_polling_command":
+      {
+        "id":37,
+        "data_len":2,
+        "data":64
+      },
+      "data_injection_command":
+      {
+        "id":135,
+        "data_len":64
+      },
+      "pre_shutdown_command":{
+        "id":148,
+        "data_len":2,
+        "data":148
+      }
+  },
+  "replies":{
+    "normal_instruction":240,
+    "instruction_err":255
+  },
+  "errors": {
+    "no_err": 0,
+    "parity_err": 17,
+    "stop_bit_error": 18,
+    "char_space_error": 19,
+    "payload_id_error": 33,
+    "instruction_err": 34,
+    "cmd_len_err": 35,
+    "checksum_err": 36
+  }
+}

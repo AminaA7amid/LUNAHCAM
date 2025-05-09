@@ -1,0 +1,52 @@
+{
+  "payload_ids": {
+    "ximea": 1,
+    "rpi_cam": 2
+  },
+  "commands": {
+    "capture_image": 17,
+    "get_telemetry": 179,
+    "get_image": 18,
+    "delete_image": 20,
+    "run_ai_pipeline":21,
+    "set_target_temp":22,
+    "set_lucm_mode":23,
+    "set_img_comp":24,
+    "factory_reset":25,
+    "run_scenario":32,
+    "turn_on_wifi":100,
+    "turn_off_wifi":101
+  },
+  "capture_image": {
+    "cmd_id": 17,
+    "indices": {
+      "cmd_id": 0,
+      "payload_id": 2,
+      "gain": 2,
+      "exp_time": 4,
+      "number_of_frames": 8,
+      "fps": 10,
+      "compression": 11,
+      "time_of_capture": 12
+    }
+  },
+  "get_image": {
+    "cmd_id": 19,
+    "indices": {
+      "cmd_id": 0,
+      "payload_id": 1,
+      "img_index": 2,
+      "number_of_frames": 3
+    }
+  },
+  "delete_image": {
+    "cmd_id": 20,
+    "indices": {
+      "cmd_id": 0,
+      "payload_id": 1,
+      "img_index": 2,
+      "number_of_frames":3,
+      "delete_flag": 4
+    }
+  }
+}

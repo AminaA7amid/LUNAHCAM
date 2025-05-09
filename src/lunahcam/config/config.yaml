@@ -1,0 +1,47 @@
+/**:
+  ros__parameters:
+    temp_sensors_config:
+      ids:
+        t1: "28-1a4fea086461"
+        t2: "28-1bb9eb086461"
+        t3: "28-1f6fea086461"
+        t4: "28-306fea086461"
+        t5: "28-0b47ea086461"
+        t6: "28-2d4d7d0e64ff"
+        t7: "28-5fe3e9086461"
+        t8: "28-19f3e9086461"
+        t9: "28-b62eea086461"
+      heaters_config:
+        pins:
+          g1: 23
+          g2: 24
+      temp_config:
+        t_target: 20
+    uart_config:
+      port: "/dev/ttyAMA5"
+      baud_rate: 115200
+      parity: 'O'
+      stop: 2
+      data: 8
+      timeout: 0.2
+      control_pin: 17
+    lvds_config:
+      control_pin: 26
+    viewfinder_config:
+      port: "/dev/video0"
+    spi_config:
+      device: 0
+      bus: 0
+    services:
+      cmd_srv: "cmd_srv"
+    topics:
+      shutdown: "shutdown"
+      payload: "payload"
+      custom_time: "custom_time"
+      temp: "temp"
+      throttled: "throttled"
+      telemetry_data: "telem"
+      payload_telem: "payload_telem"
+      target_heater_temp: "target_heater_temp"
+      error: "error"
+

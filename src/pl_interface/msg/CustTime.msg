@@ -1,0 +1,2 @@
+uint64 seconds
+uint16 milliseconds

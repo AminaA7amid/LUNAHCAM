@@ -1,0 +1,2 @@
+bool target_temp_sign
+uint16 target_temp_value
