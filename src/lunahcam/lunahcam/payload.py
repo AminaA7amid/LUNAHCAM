@@ -20,7 +20,8 @@ import spectral
 import shutil
 # from threading import Thread, Lock
 from pl_interface.msg import PldCmd,CustTime,PldTelem,TargetTemp,Throttled,TelemData
-current_dir = os.path.dirname(os.path.abspath(__file__))
+#current_dir = os.path.dirname(os.path.abspath(__file__))
+current_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
 sys.path.append(current_dir)
 os.environ['XIAPI_LOG_LEVEL'] = '0'
 
