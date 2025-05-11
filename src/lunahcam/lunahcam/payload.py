@@ -108,7 +108,7 @@ class Payload(Node, Protocol, PayloadConfig):
         _pld.ximea_ID = 1
         _pld.rpiCAM_ID = 2
         _pld.hs_file_type = 0 
-        _pld.vf_images_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
+        _pld.vf_images_dir = "/rpi/LUNAHCAM_V1/lunahcam/src/lunahcam"
         _pld.get_last_vf_file_info()
         _pld.hyperspectral_data_dir = "/home/egsa/hyperspectral_data"
         _pld.get_last_hs_file_info()
