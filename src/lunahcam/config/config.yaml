@@ -44,6 +44,4 @@
       payload_telem: "payload_telem"
       target_heater_temp: "target_heater_temp"
       error: "error"
-    preload_image: true
-    image_index_to_send: 0
 

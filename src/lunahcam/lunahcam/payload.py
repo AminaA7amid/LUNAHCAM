@@ -30,15 +30,6 @@ from protocol import Protocol
 class Payload(Node, Protocol, PayloadConfig):
     def __init__(_pld):
         super().__init__('payload')
-
-        _pld.declare_parameter('preload_image', True)
-        _pld.declare_parameter('image_index_to_send', 0)
-
-        preload_image = _pld.get_parameter('preload_image').value
-        image_index_to_send = _pld.get_parameter('image_index_to_send').value
-
-        threading.Thread(target = _pld.auto_transmit_image, daemon = True).start()
-
         Protocol.__init__(_pld)
         PayloadConfig.__init__(_pld)
         _pld._allow_undeclared_parameters = True
@@ -108,7 +99,7 @@ class Payload(Node, Protocol, PayloadConfig):
         _pld.ximea_ID = 1
         _pld.rpiCAM_ID = 2
         _pld.hs_file_type = 0 
-        _pld.vf_images_dir = "/rpi/LUNAHCAM_V1/lunahcam/src/lunahcam"
+        _pld.vf_images_dir = "/home/egsa/vf_images"
         _pld.get_last_vf_file_info()
         _pld.hyperspectral_data_dir = "/home/egsa/hyperspectral_data"
         _pld.get_last_hs_file_info()
@@ -136,16 +127,6 @@ class Payload(Node, Protocol, PayloadConfig):
         _pld.payload_telem_timer = _pld.create_timer(1, _pld.publish_payload_telem)
         _pld.abort_event = threading.Event()
         _pld.start_vf_imaging()
-
-    def auto_transmit_image(_at):
-        time.sleep(3)
-        if _at.preload_image:
-            _at.mode_handler(
-                0x40,
-                payload_id=_at.rpiCAM_ID,
-                image_index = _at.image_index_to_send,
-                seq_num = 0,
-                window_num = 0)
         
     def start_vf_imaging(_vf):
         """
