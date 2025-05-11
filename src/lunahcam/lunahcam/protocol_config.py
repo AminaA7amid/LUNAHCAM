@@ -30,7 +30,7 @@ class ProtocolConfig:
     def __init__(_cfg):
         
         # Load configuration data from 'config.json' file and set class attributes based on the data.
-        file = open('/home/egsa/LUNAHCAM/src/lunahcam/config/protocol_config.json')
+        file = open('/LUNACAM_V1/LUNAHCAM/src/lunahcam/config/protocol_config.json')
         protocol_config = json.load(file)
 
         # Frame Constants

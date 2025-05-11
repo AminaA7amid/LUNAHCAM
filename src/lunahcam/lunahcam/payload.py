@@ -99,9 +99,9 @@ class Payload(Node, Protocol, PayloadConfig):
         _pld.ximea_ID = 1
         _pld.rpiCAM_ID = 2
         _pld.hs_file_type = 0 
-        _pld.vf_images_dir = "/home/egsa/vf_images"
+        _pld.vf_images_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
         _pld.get_last_vf_file_info()
-        _pld.hyperspectral_data_dir = "/home/egsa/hyperspectral_data"
+        _pld.hyperspectral_data_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
         _pld.get_last_hs_file_info()
         _pld.default_mode = None
         _pld.mode_lock = threading.Lock()
@@ -111,7 +111,7 @@ class Payload(Node, Protocol, PayloadConfig):
         _pld.first_capture_flag = False
         _pld.first_capture_time = None
         _pld.next_capture_time = None
-        _pld.mode_directory = "/home/egsa/mode_directory"
+        _pld.mode_directory = "/LUNAHCAM_V1/LUNAHCAM/mode_directory"
         _pld.mode_file = os.path.join(_pld.mode_directory, "lucm_mode.csv")
         _pld.spi_lock = threading.Lock()
         _pld.state = "vf_imaging"

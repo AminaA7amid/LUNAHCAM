@@ -33,7 +33,7 @@ class PayloadConfig:
     def __init__(_cfg):
 
         # Load configuration data from 'payload_data_injection_config.json' file and set class attributes based on the data.
-        file = open('/home/egsa/LUNAHCAM/src/lunahcam/config/payload_data_injection_config.json')
+        file = open('/LUNAHCAM_V1/LUNAHCAM/src/lunahcam/config/payload_data_injection_config.json')
         payload_config = json.load(file)
         
         # Command IDs
