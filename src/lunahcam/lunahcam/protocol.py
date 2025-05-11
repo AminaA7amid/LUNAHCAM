@@ -13,7 +13,7 @@ from rclpy.logging import get_logger
 
 # directory mapping for importing local files
 #current_dir = os.path.dirname(os.path.abspath(__file__))
-current_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
+current_dir = "/LUNAHCAM_V1/LUNAHCAM/src/config"
 sys.path.append(current_dir)
 
 from protocol_config import ProtocolConfig
