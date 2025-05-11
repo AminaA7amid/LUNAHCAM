@@ -7,6 +7,6 @@
     "\\src\\lunahcam\\launch",
     "\\src\\lunahcam\\lunahcam"
   ],
-  "SelectedNode": "\\src\\lunahcam\\lunahcam\\pre_shutdown.py",
+  "SelectedNode": "\\src\\lunahcam\\launch\\lunahcam.launch.py",
   "PreviewInSolutionExplorer": false
 }

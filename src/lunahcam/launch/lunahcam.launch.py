@@ -61,10 +61,10 @@ def generate_launch_description():
     )
 
     ld.add_action(bus_interface)
-    #ld.add_action(telemetry_data)
+    ld.add_action(telemetry_data)
     ld.add_action(cmd_handler)
     ld.add_action(payload)
-    #ld.add_action(thermal_control)
-    #ld.add_action(pre_shutdown)
+    ld.add_action(thermal_control)
+    ld.add_action(pre_shutdown)
 
     return ld
