@@ -5,7 +5,10 @@
     "\\src\\lunahcam",
     "\\src\\lunahcam\\config",
     "\\src\\lunahcam\\launch",
-    "\\src\\lunahcam\\lunahcam"
+    "\\src\\lunahcam\\lunahcam",
+    "\\src\\lunahcam\\resource",
+    "\\src\\pl_interface",
+    "\\src\\pl_interface\\msg"
   ],
   "SelectedNode": "\\src\\lunahcam\\lunahcam\\protocol.py",
   "PreviewInSolutionExplorer": false
