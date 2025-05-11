@@ -9,7 +9,8 @@ from std_msgs.msg import String
 from rclpy.qos import QoSProfile, QoSReliabilityPolicy, QoSHistoryPolicy
 
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
+#current_dir = os.path.dirname(os.path.abspath(__file__))
+current_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
 sys.path.append(current_dir)
 
 from protocol import Protocol

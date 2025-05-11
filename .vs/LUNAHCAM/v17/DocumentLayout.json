@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\bus_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\pre_shutdown.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\pre_shutdown.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\thermal_control.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\payload.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\bus_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\cmd_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\protocol.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\config.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -27,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\package.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\thermal_control.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\launch\\lunahcam.launch.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\launch\\lunahcam.launch.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\cmd_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lunahcam\\lunahcam\\protocol.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\pl_interface\\package.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,11 +70,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pre_shutdown.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\pre_shutdown.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\pre_shutdown.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\pre_shutdown.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\pre_shutdown.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T15:58:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bus_interface.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\bus_interface.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\bus_interface.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T15:22:39.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "protocol.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\protocol.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\protocol.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T14:49:57.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "config.yaml",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\config.yaml",
+              "RelativeDocumentMoniker": "src\\lunahcam\\config\\config.yaml",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\config.yaml",
+              "RelativeToolTip": "src\\lunahcam\\config\\config.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-11T14:49:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "setup.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\setup.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\setup.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\setup.py",
+              "RelativeToolTip": "src\\lunahcam\\setup.py",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T14:49:24.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.xml",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\pl_interface\\package.xml",
+              "RelativeDocumentMoniker": "src\\pl_interface\\package.xml",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\pl_interface\\package.xml",
+              "RelativeToolTip": "src\\pl_interface\\package.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-11T14:49:23.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.xml",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\package.xml",
+              "RelativeDocumentMoniker": "src\\lunahcam\\package.xml",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\package.xml",
+              "RelativeToolTip": "src\\lunahcam\\package.xml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-11T14:49:20.966Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "cmd_handler.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\cmd_handler.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\cmd_handler.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T14:49:14.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "payload_data_injection_config.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T14:41:51.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "payload.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\payload.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\payload.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T14:40:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thermal_control.py",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py",
+              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\thermal_control.py",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py",
+              "RelativeToolTip": "src\\lunahcam\\lunahcam\\thermal_control.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-11T15:23:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "payload_data_injection_config.json",
+              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\payload_data_injection_config.json",
+              "RelativeDocumentMoniker": "src\\lunahcam\\config\\payload_data_injection_config.json",
+              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\payload_data_injection_config.json",
+              "RelativeToolTip": "src\\lunahcam\\config\\payload_data_injection_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T14:49:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "setup.cfg",
               "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\setup.cfg",
               "RelativeDocumentMoniker": "src\\lunahcam\\setup.cfg",
@@ -83,144 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bus_interface.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\bus_interface.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\bus_interface.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\bus_interface.py",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T15:22:39.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "protocol.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\protocol.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\protocol.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T14:49:57.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "payload_data_injection_config.json",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\payload_data_injection_config.json",
-              "RelativeDocumentMoniker": "src\\lunahcam\\config\\payload_data_injection_config.json",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\payload_data_injection_config.json",
-              "RelativeToolTip": "src\\lunahcam\\config\\payload_data_injection_config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T14:49:51.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "config.yaml",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\config.yaml",
-              "RelativeDocumentMoniker": "src\\lunahcam\\config\\config.yaml",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\config\\config.yaml",
-              "RelativeToolTip": "src\\lunahcam\\config\\config.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-11T14:49:41.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "setup.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\setup.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\setup.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\setup.py",
-              "RelativeToolTip": "src\\lunahcam\\setup.py",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T14:49:24.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "package.xml",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\pl_interface\\package.xml",
-              "RelativeDocumentMoniker": "src\\pl_interface\\package.xml",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\pl_interface\\package.xml",
-              "RelativeToolTip": "src\\pl_interface\\package.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T14:49:23.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "package.xml",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\package.xml",
-              "RelativeDocumentMoniker": "src\\lunahcam\\package.xml",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\package.xml",
-              "RelativeToolTip": "src\\lunahcam\\package.xml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T14:49:20.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "cmd_handler.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\cmd_handler.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\cmd_handler.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\cmd_handler.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T14:49:14.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "payload_data_injection_config.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\payload_data_injection_config.py",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T14:41:51.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "payload.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\payload.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\payload.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\payload.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T14:40:35.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "thermal_control.py",
-              "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py",
-              "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\thermal_control.py",
-              "ToolTip": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\thermal_control.py",
-              "RelativeToolTip": "src\\lunahcam\\lunahcam\\thermal_control.py",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAgwMEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-05-11T15:23:20.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "lunahcam.launch.py",
               "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\launch\\lunahcam.launch.py",
               "RelativeDocumentMoniker": "src\\lunahcam\\launch\\lunahcam.launch.py",
@@ -232,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "protocol_config.py",
               "DocumentMoniker": "C:\\Users\\amina.albalooshi\\Documents\\GitHub\\LUNAHCAM\\src\\lunahcam\\lunahcam\\protocol_config.py",
               "RelativeDocumentMoniker": "src\\lunahcam\\lunahcam\\protocol_config.py",

@@ -15,7 +15,8 @@ import os
 import subprocess 
 
 # directory mapping for importing local files
-current_dir = os.path.dirname(os.path.abspath(__file__))
+#current_dir = os.path.dirname(os.path.abspath(__file__))
+current_dir = "/LUNAHCAM_V1/LUNAHCAM/src/lunahcam"
 sys.path.append(current_dir)
 
 from log_level import LogLevel
